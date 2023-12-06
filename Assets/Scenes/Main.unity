@@ -1011,7 +1011,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: <SPACE>
+  m_Text: '<SPACE> to jump
+
+    <W>/<S> to change gravity'
 --- !u!222 &972035123
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1075,9 +1077,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.22316802
+    x: 0.22242782
     y: 0
-    width: 0.55366397
+    width: 0.55514437
     height: 1
   near clip plane: 0.1
   far clip plane: 10
