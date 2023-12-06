@@ -726,7 +726,7 @@ MonoBehaviour:
     m_Bits: 1024
   rotationSpeed: 300
   rotateAxis:
-    x: 0
+    x: 1
     y: 0
     z: 0
   axisDirection:
